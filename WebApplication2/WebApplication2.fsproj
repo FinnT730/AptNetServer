@@ -7,8 +7,10 @@
     <ItemGroup>
         <Compile Include="isEven.fs" />
         <Compile Include="isOdd.fs" />
+        <Compile Include="Mul.fs" />
         <Compile Include="Controllers\isEvenController.fs" />
         <Compile Include="Controllers\IsOddController.fs" />
+        <Compile Include="Controllers\MulController.fs" />
         <Compile Include="Program.fs" />
     </ItemGroup>
 
